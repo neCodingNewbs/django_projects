@@ -2,7 +2,7 @@
 
 ##Why this list?
 
-There many excellent introductions to Django on the web. Many of them will have
+There are many excellent introductions to Django on the web. Many of them will have
 you set up and run a simple Django web app in an hour. However, if you are
 completely new to programming and web development, you may find it difficult
 to understand what's going on. Most tutorials implicitly presume familiarity
@@ -47,7 +47,7 @@ and be less overwhelmed by the confusing plethora of opaque code.
 
   Regex stands for 'Regular Expressions' and are basically used to search
   for specific character patterns. Whatever type of programming you do,
-  you'll need to be comfortable with regexes. Each language implements
+  you'll need to be comfortable with regexes. Each language implements them
   slightly differently, but once you've got the basic idea from here:
 
   http://regexone.com/
@@ -91,6 +91,7 @@ and be less overwhelmed by the confusing plethora of opaque code.
   Javascript is the language of the web and you'll see it again and again.
 
   Work through Codecademy's course: http://www.codecademy.com/tracks/javascript
+  at least to the end of 'Data Structures'.
 
   The aim at the moment is to get comfortable with Javascript syntax, you can
   work on improving your knowledge of Javascript as time goes on.
@@ -107,7 +108,7 @@ and be less overwhelmed by the confusing plethora of opaque code.
 
 ###7) Command Line Basics
 
-  Django development is run from command line (terminal window), so you'll
+  Django development is run from the command line (terminal window), so you'll
   need to be comfortable with simple commands. At the very least, you need
   to know how to navigate the directory structure.
 
@@ -121,9 +122,9 @@ and be less overwhelmed by the confusing plethora of opaque code.
 
   To learn some Git Basics go here:
 
-  http://gitimmersion.com/lab_01.html
-
-  The tutorial uses Ruby, don't worry. Git commands are always preceded by
-  **git**, those are the ones to learn.
+      https://www.codeschool.com/courses/try-git
+      
+  You should be able to **add, commit, push, and pull** by the end.
+    
 
 
