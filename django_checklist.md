@@ -122,7 +122,7 @@ and be less overwhelmed by the confusing plethora of opaque code.
 
   To learn some Git Basics go here:
 
-      https://www.codeschool.com/courses/try-git
+  https://www.codeschool.com/courses/try-git
       
   You should be able to **add, commit, push, and pull** by the end.
     
